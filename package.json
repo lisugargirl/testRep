@@ -1,0 +1,20 @@
+{
+  "name": "testrep",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1", 
+    "start": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lisugargirl/testRep.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lisugargirl/testRep/issues"
+  },
+  "homepage": "https://github.com/lisugargirl/testRep#readme"
+}
