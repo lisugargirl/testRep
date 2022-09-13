@@ -1,8 +1,6 @@
 let date = new Date()
 let NYDate = new Date(date.getFullYear() + 1, 0, 1, 0, 0, 0)
 
-console.log(date)
-console.log(NYDate)
 NDate = NYDate - date
 
 days = Math.floor(NDate / (24*60*60*1000))
